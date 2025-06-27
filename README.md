@@ -22,6 +22,7 @@ This project implements an adapter to connect an NES (Nintendo Entertainment Sys
 
 1. **Hardware Connection**
    - Connect the NES controller to the Raspberry Pi Pico according to the following schematic:
+![Connection Schematic](https://github.com/user-attachments/assets/72919f68-bb07-4a20-b9b2-63b6456f92c2)
 
 2. **Firmware Loading**
    - Connect the Raspberry Pi Pico to your computer while holding down the **BOOTSEL** button.
@@ -68,7 +69,7 @@ Este proyecto implementa un adaptador para conectar un control de NES (Nintendo 
 
 1. **Conexión del Hardware**
    - Conecta el control NES a la Raspberry Pi Pico según el siguiente esquema:
-
+![Connection Schematic](https://github.com/user-attachments/assets/72919f68-bb07-4a20-b9b2-63b6456f92c2)
 2. **Carga del Firmware**
    - Conecta la Raspberry Pi Pico a tu computadora mientras mantienes presionado el botón **BOOTSEL**.
    - Descarga el archivo `.uf2` disponible en la sección de *releases* de este repositorio.
