@@ -213,8 +213,8 @@ enum {
 char const *string_desc_arr[] =
 {
   (const char[]) { 0x09, 0x04 }, // 0: is supported language is English (0x0409)
-  "Diktator",                     // 1: Manufacturer
-  "DiktaController",              // 2: Product
+  "SHADALOO",                     // 1: Manufacturer
+  "NES2USB",              // 2: Product
   NULL,                          // 3: Serials will use unique ID if possible
 };
 
